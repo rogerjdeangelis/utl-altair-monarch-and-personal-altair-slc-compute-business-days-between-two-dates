@@ -1,10 +1,10 @@
-# utl-altair-monarch-and-personal-altair-slc-compute-business-days-between-two-dates
-Altair Monarch and personal altair slc compute business days between two dates
     %let pgm=utl-altair-monarch-and-personal-altair-slc-compute-business-days-between-two-dates;
 
     %stop_submission;
 
     Altair Monarch and personal altair slc compute business days between two dates
+
+    Too long to post on a listserv, see github
 
     github
     https://tinyurl.com/36usnkpn
@@ -26,14 +26,15 @@ Altair Monarch and personal altair slc compute business days between two dates
 
     2025-01-15    Wednesday   1
     2025-01-16    Thursday    2
+    2025-01-17    Friday      3
 
-    2025-01-17    Friday          USPRESIDENTS (do not count as a business day)
-    2025-01-18    Saturday        Weekend (easy to chage in code below if open on Sat and Sun
+    2025-01-18    Saturday        Very easy to add to business if open on weekends
     2025-01-19    Sunday
 
-    2025-01-20    Monday      3
+    2025-01-20    Monday          MLK  (not a business day)
+
     2025-01-21    Tuesday     4
-    2025-01-22    Wednesday   5   Weekdays not business day (
+    2025-01-22    Wednesday   5  Weekdaya are Business Days
     2025-01-23    Thursday    6
     2025-01-24    Friday      7
 
@@ -176,3 +177,4 @@ Altair Monarch and personal altair slc compute business days between two dates
      \___|_| |_|\__,_|
 
     */
+
