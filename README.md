@@ -6,9 +6,9 @@
 
     Too long to post on a listserv, see github
 
-    github
-    https://tinyurl.com/36usnkpn
-    https://github.com/rogerjdeangelis/utl-post-weekend-and-holiday-sales-to-the-next-business-weekday-using-personal-altair-slc
+    gthub
+    https://tinyurl.com/bdh262cr
+    https://github.com/rogerjdeangelis/utl-altair-monarch-and-personal-slc-reading-and-writing-dbf-files
 
     TWO SOLUTIONS
 
